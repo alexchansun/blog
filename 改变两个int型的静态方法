@@ -1,0 +1,6 @@
+sss
+    public static void main(String[] args) throws NoSuchAlgorithmException, NoSuchFieldException, IllegalAccessException {
+        Integer a = 1;
+        Integer b = 2;
+        swap(a, b);
+    }
